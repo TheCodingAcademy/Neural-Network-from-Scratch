@@ -1,4 +1,4 @@
-# Neural-Network-from-Sratch
+# Neural-Network-from-Scratch
 Neural Network in Python from Scratch.
 
 - Test accuracy: ~98%.
